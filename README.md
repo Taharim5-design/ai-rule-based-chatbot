@@ -19,5 +19,6 @@ You: what is python
 Bot: Python is a programming language used in AI, ML, and web development.
 # Files Included
 -chatbot.py - Main chatbot program
+-chat_history.txt-Stores conversation history
 # internship details
 This project is developed as part of the internship at Sam IT Technologies.
